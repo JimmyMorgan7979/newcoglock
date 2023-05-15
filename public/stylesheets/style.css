@@ -1,0 +1,25 @@
+
+.whitesmoke {
+    background-color: rgb(247,245,242);
+  }
+.tanbg {
+    background-color:rgb(238, 225, 200);
+}
+.logospace{
+    max-width: 400px;
+    overflow:hidden;
+}
+img {
+    width:100%;
+    object-fit:contain;
+}
+.banner {
+    background: white url("/images/skyTree1.jpg") no-repeat;
+    overflow:hidden;
+    height:auto;
+}
+.bb {
+    border-bottom: 1px solid black;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+  }
